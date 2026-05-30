@@ -54,18 +54,32 @@
 ## 🔥 Featured Projects
 
 ### 📚 Student Assessment Testing Application
-- Online testing platform
-- Automated score evaluation
-- React.js + SQL
 
-### 📊 Employee Attrition Dashboard
-- Tableau Dashboard
-- HR Analytics
-- Workforce Insights
+* Online testing platform
+* Automated score evaluation
+* React.js + SQL
+
+### 🚦 Accident Reports in India (2006–2017)
+
+<p align="left">
+  <a href="https://github.com/Sai3149/accident-reports-in-india-2006-2017-through-tableau-tool" target="_blank">
+    <img src="https://img.icons8.com/color/96/tableau-software.png" width="60" alt="Tableau Project"/>
+  </a>
+</p>
+
+* Interactive Tableau Dashboard
+* Analysis of Road Accident Trends in India (2006–2017)
+* State-wise and Year-wise Accident Insights
+* Data Visualization, Filters, Trend Analysis & Reporting
+
+**🔗 Project Link:**
+https://github.com/Sai3149/accident-reports-in-india-2006-2017-through-tableau-tool
 
 ### 🤖 Line Follower Robot
-- Arduino Based Robot
-- IR Sensor Navigation
+
+* Arduino Based Robot
+* IR Sensor Navigation
+
 
 ---
 
@@ -81,13 +95,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sai3149&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai3149&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
